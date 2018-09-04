@@ -1,9 +1,17 @@
-IMAGE FACE RECOGONITION
-Simple python program to detect face in your image.The number of faces in image file is one or more than one program will successfully
-able to detect the faces in image
-TO RUN THE PROGRAM
-1.Download or Clone my repository on your system.
-2.Simply open image_face_recogontion.py on your python
-3.Run the program
-NOTE: On input field of the program give complete path of the image with extension whoes face you want to detect
-for eg. `you can try "testimages/women4.jpeg"
+IMAGE FACE RECOGONITION<br />
+Simple python program to detect face in your image.The number of faces in image file is one or more than one program will successfully able to detect the faces in image<br />
+
+Getting Started<br />
+Clone/Download this repository and store your test images in 'testimages' in repository<br /> 
+
+Prerequisites<br />
+1.python <br />
+download:www.python.org/downloads<br />
+2.opencv<br />
+pip install opencv-python(root of python site package)<br />
+3.numpy<br />
+pip install numpy<br />
+
+Running the program<br />
+1.Open and run the image_face_recogonition.py<br />
+2.In input console enter image path eg. "faceimages/image.jpeg"<br />
